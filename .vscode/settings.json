@@ -1,0 +1,38 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "biomejs.biome",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "biomejs.biome"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "biomejs.biome"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "biomejs.biome"
+    },
+    "editor.codeActionsOnSave": {
+       "quickfix.biome": "always",
+       "source.organizeImports.biome": "always"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#2e2e38",
+        "activityBar.background": "#262630",
+        "activityBar.foreground": "#c0caf5",
+        "activityBar.inactiveForeground": "#7a7a8a",
+        "activityBarBadge.background": "#7aa2f7",
+        "activityBarBadge.foreground": "#2e2e38",
+        "commandCenter.border": "#555566",
+        "sash.hoverBorder": "#7aa2f7",
+        "statusBar.background": "#2e2e38",
+        "statusBar.foreground": "#c0caf5",
+        "statusBarItem.hoverBackground": "#3b3b48",
+        "statusBarItem.remoteBackground": "#7aa2f7",
+        "statusBarItem.remoteForeground": "#2e2e38",
+        "titleBar.activeBackground": "#2e2e38",
+        "titleBar.activeForeground": "#c0caf5",
+        "titleBar.inactiveBackground": "#2e2e38",
+        "titleBar.inactiveForeground": "#7a7a8a"
+    },
+    "git.autofetch": true,
+    "git.autofetchPeriod": 60
+}
